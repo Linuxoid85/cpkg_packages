@@ -1,13 +1,13 @@
 https://github.com/Linuxoid85/cpkg_packages/raw/main/calmira2021/calm/cpkg.txz
 https://github.com/Linuxoid85/cpkg_packages/raw/main/calmira2021/core/bzip2.txz
 https://github.com/Linuxoid85/cpkg_packages/raw/main/calmira2021/core/file.txz
-https://github.com/Linuxoid85/cpkg_packages/raw/main/calmira2021/core/iana-etc.txz
+https://github.com/Linuxoid85/cpkg_packages/raw/main/calmira2021/core/iana-etc-20210611.txz
 https://github.com/Linuxoid85/cpkg_packages/raw/main/calmira2021/core/m4.txz
 https://github.com/Linuxoid85/cpkg_packages/raw/main/calmira2021/core/man-pages.txz
 https://github.com/Linuxoid85/cpkg_packages/raw/main/calmira2021/core/readline.txz
 https://github.com/Linuxoid85/cpkg_packages/raw/main/calmira2021/core/which.txz
 https://github.com/Linuxoid85/cpkg_packages/raw/main/calmira2021/core/xz.txz
-https://github.com/Linuxoid85/cpkg_packages/raw/main/calmira2021/core/zlib.txz
+https://github.com/Linuxoid85/cpkg_packages/raw/main/calmira2021/core/zlib-2.0.3.txz
 https://github.com/Linuxoid85/cpkg_packages/raw/main/calmira2021/core/zstd.txz
 https://github.com/Linuxoid85/cpkg_packages/raw/main/calmira2021/network/browsers/lynx.txz
 https://github.com/Linuxoid85/cpkg_packages/raw/main/calmira2021/network/libs/curl.txz
